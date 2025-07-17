@@ -5,7 +5,7 @@
   "items": [
     {
       "page": "dashboard",
-      "url": "ttps://camcmart33.github.io/GeotabTPMS/",
+      "url": "https://camcmart33.github.io/GeotabTPMS/",
       "script": "https://camcmart33.github.io/tirecheck-tpms-addin/tirecheck-tpms.js",
       "stylesheet": "https://camcmart33.github.io/tirecheck-tpms-addin/tirecheck-tpms.css",
       "icon": "https://cdn-icons-png.flaticon.com/512/2972/2972557.png",
